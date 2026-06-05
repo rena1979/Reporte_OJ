@@ -46,9 +46,6 @@ if verificar_contrasena():
     st.success("🔓 Acceso Concedido")
     st.title("📊 Reporte Dinámico de Dotación")
     st.write("El servidor ha ejecutado tus librerías y cargado los datos correctamente.")
-    
-    # Aquí continuas pegando el resto de tu lógica para procesar los Excel con openpyxl...
-from __future__ import annotations
 
 import html
 import io
